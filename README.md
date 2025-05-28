@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Afaq</h1>
-<h3 align="center">A enthusiastic Software Engineer specialized in building modern web apps using React, Next.js, Vue, and Nuxt.</h3>
+<h3 align="center">A enthusiastic Software Engineer specialized in building modern
+web apps using React, Next.js, Vue, and Nuxt.</h3>
 
 - 🔭 I’m currently working on **high-performance frontend apps with SSR and SPA architecture**
 
