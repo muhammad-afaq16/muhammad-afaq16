@@ -1,5 +1,17 @@
 <h1 align="center">Hi 👋, I'm Muhammad Afaq</h1>
-<h3 align="center">An enthusiastic frontend developer based in Pakistan.</h3>
+<h3 align="center">A enthusiastic Software Engineer specialized in building modern web apps using React, Next.js, Vue, and Nuxt.</h3>
+
+- 🔭 I’m currently working on **high-performance frontend apps with SSR and SPA architecture**
+
+- 🌱 I’m currently learning **Full-stack engineering with Node.js and Python**
+
+- 👯 I’m looking to collaborate on **scalable web platforms and open-source projects**
+
+- 💬 Ask me about **React, Next.js, Vue, Nuxt, UI/UX architecture, or clean component design**
+
+- 📫 How to reach me: **[your.email@example.com]**
+
+- ⚡ Fun fact: *I love clean code and smooth user experiences as much as coffee ☕*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
