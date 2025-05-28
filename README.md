@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, Next.js, Vue, Nuxt, UI/UX architecture, or clean component design.**
 
-- 📫 How to reach me: **[your.email@example.com]**
+- 📫 How to reach me: **iamafaq.dev@gmail.com**
 
 - ⚡ Fun fact: *I love clean code and smooth user experiences as much as coffee ☕*
 
