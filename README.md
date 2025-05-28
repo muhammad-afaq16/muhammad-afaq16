@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Afaq</h1>
 <h3 align="center">A passionate Software Engineer specialized in building modern web apps using React, Next.js, Vue, and Nuxt.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
 
 - 🔭 I’m currently working on **high-performance frontend apps with SSR and SPA architecture**
 
-- 🌱 I’m currently learning **Full-stack engineering with Node.js and Python**
+- 🌱 I’m currently learning **Full-stack engineering**
 
 - 👯 I’m looking to collaborate on **scalable web platforms and open-source projects**
 
 - 💬 Ask me about **React, Next.js, Vue, Nuxt, UI/UX architecture, or clean component design**
 
-- 📫 How to reach me: **[your.email@example.com]**
+- 📫 How to reach me: **iamafaq.dev@gmail.com**
 
 - ⚡ Fun fact: *I love clean code and smooth user experiences as much as coffee ☕*
 
