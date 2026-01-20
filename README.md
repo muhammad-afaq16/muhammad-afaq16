@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Afaq</h1>
-<h3 align="center">An Enthusiastic Frontend Engineer Based In Pakistan.</h3>
+<h3 align="center">An Enthusiastic Full-Stack Engineer Based In Pakistan.</h3>
 
 - 🔭 I’m currently working on **high-performance frontend apps with SSR and SPA architecture.**
 
