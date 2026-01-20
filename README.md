@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Afaq</h1>
 <h3 align="center">An Enthusiastic Full-Stack Engineer Based In Pakistan.</h3>
 
-- 🔭 I’m currently working on **high-performance frontend apps with SSR and SPA architecture.**
+- 🔭 I’m currently working on **Software as a service with SSR and SPA architecture.**
 
 - 🌱 I’m actively learning **Software Engineering.**
 
