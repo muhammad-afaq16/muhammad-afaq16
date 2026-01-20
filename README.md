@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **high-performance frontend apps with SSR and SPA architecture.**
 
-- 🌱 I’m currently learning **Full-stack engineering.**
+- 🌱 I’m actively learning **Software Engineering.**
 
 - 👯 I’m looking to collaborate on **scalable web platforms and open-source projects.**
 
-- 💬 Ask me about **React, Next.js, Vue, Nuxt, UI/UX architecture, or clean component design.**
+- 💬 Ask me about **React, Next.js, Vue, Nuxt, Node, Express, SQL/No-SQL, ORMs, architecture or clean component design.**
 
 - 📫 How to reach me: **iamafaq.dev@gmail.com**
 
